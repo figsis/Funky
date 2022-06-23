@@ -20,4 +20,3 @@ uvicorn==0.13.4
 websockets==10.1
 WTForms==2.3.3
 WTForms-SQLAlchemy==0.2
-otree=3.8.8
